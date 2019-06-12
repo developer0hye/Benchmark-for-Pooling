@@ -1,2 +1,2 @@
-# Pytorch-Mixed-Pooling-for-CNN
+# Mixed-Pooling-for-CNN
 PyTorch implementation of Mixed Pooling
